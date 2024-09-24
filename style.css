@@ -1,0 +1,17 @@
+boddy{
+    background-color: teal;
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 10px;
+
+
+}
+main{
+background-color: lightgrey;
+width: 80%;
+margin:0 auto ;
+padding: 30px;
+box-sizing: border-box;
+margin-bottom: 50px;
+
+}
